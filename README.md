@@ -23,13 +23,6 @@ practical software solutions.
 
 I have experience working in multicultural environments and communicating
 in both Japanese and English.
-
-🎓 Graduated from **Waseda University, Japan**
-
-🇯🇵 Japanese: **JLPT N1**
-
-🇬🇧 English: **IELTS 7.5**
-
 ---
 
 ## 🛠️ Tech Stack
